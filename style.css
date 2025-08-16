@@ -1,14 +1,19 @@
 body {
+    font-family: "Pixelify Sans", sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
+    color: white;
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(krasivyi-peizaz-materi-prirody.jpg);
     background-size: cover;
     display: flex;
+}
+.name {
+    color:black
 }
 
 .header_left {
