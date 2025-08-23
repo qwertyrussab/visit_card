@@ -29,3 +29,4 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
     slowScroll(link.getAttribute("href"), 2000); // 2000 мс = 2 сек
   });
 });
+
